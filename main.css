@@ -1,0 +1,23 @@
+.container {
+
+	width: 100%;
+}
+
+.section {
+
+}
+
+.buttons {
+	width: 150px;
+	height: 100px;
+	margin: 10px 55px;
+	color: lightgray;
+	background-color: rgb(35,35,35);
+	font-size: 25px; 
+	font-style: bold;
+}
+
+.navtext {
+	color: lightgray;
+	margin-left: 65px;
+}
